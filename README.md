@@ -1,10 +1,7 @@
 # Aimazing-QA
 ## 💼 職缺名稱｜測試工程師（軟體） Quality Assurance Engineer 
 
-## 🏢 公司名稱｜
-
-
-Aimazing\_愛美金科技股份有限公司
+## 🏢 公司名稱｜Aimazing 愛美金科技股份有限公司
 
 ## 🌍 工作地點
 
